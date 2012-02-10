@@ -4,8 +4,8 @@ This library is for interfacing with a XBow IMU400CC series IMU.
 
 ## Dependencies
 
-* cmake (http://www.cmake.org/): For building stuff.
-* serial (https://github.com/wjwwood/serial): For interfacing to a serial port.
+* cmake ([http://www.cmake.org/](http://www.cmake.org/)): For building stuff.
+* serial ([https://github.com/wjwwood/serial](https://github.com/wjwwood/serial)): For interfacing to a serial port.
 
 ## Building
 
