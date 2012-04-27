@@ -6,7 +6,7 @@
 
 #include "boost/thread.hpp"
 
-#include "serial.h"
+#include "serial/serial.h"
 
 #include "xbow_400_types.h"
 
